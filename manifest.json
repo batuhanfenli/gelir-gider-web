@@ -1,7 +1,9 @@
 {
+    "id": "/gelir-gider-web/sirket-defteri",
     "name": "Şirket Defteri",
     "short_name": "Şirket Defteri",
     "start_url": ".",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#FBF6F1",
     "theme_color": "#B4532A",
