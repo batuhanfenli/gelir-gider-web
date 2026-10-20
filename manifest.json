@@ -1,6 +1,6 @@
 {
-    "name": "Gelir Gider",
-    "short_name": "Gelir Gider",
+    "name": "Şirket Defteri",
+    "short_name": "Şirket Defteri",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FBF6F1",
